@@ -15,8 +15,8 @@ This source code was written for educational purposes only.
 This software is intendet solely to be used for monitoring your own private, personal computers. You are not, under any circumstances, meant to be using it on another computer.
 
 ##Screenshot
-(https://i.imgur.com/bMADx52.png)
-(https://i.imgur.com/enGwOsx.png)
+![HOME](https://i.imgur.com/bMADx52.png)
+![LOG VIEWER](https://i.imgur.com/enGwOsx.png)
 
 ENJOY
 
