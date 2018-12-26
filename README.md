@@ -3,14 +3,14 @@
 An open source keylogger.
 
 ## Features
-*Start/Stop
-*Encrypted logs (Private-Public KeyPair)
-*Start on computer execution
-*Take screenshots
-*Hot key to show interface
-*Custom report folder
-*Custom report extension
-*Log viewer
+* Start/Stop
+* Encrypted logs (Private-Public KeyPair)
+* Start on computer execution
+* Take screenshots
+* Hot key to show interface
+* Custom report folder
+* Custom report extension
+* Log viewer
 
 ## Disclaimer
 This source code was written for educational purposes only. 
